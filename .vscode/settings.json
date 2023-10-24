@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.jscad": "javascript"
+  },
+  "editor.wordWrap": "on"
+}

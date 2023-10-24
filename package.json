@@ -1,0 +1,27 @@
+{
+  "name": "keycaps-jscad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jscad",
+    "keycaps",
+    "choc"
+  ],
+  "author": "Yuichiro MASUI <masui@masuidrive.jp>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@jscad/cli": "^2.3.0",
+    "@jscad/core": "^2.6.7",
+    "@jscad/modeling": "^2.12.0",
+    "@jscad/stl-deserializer": "^2.1.22",
+    "@jscad/stl-serializer": "^2.1.15",
+    "@jscad/svg-deserializer": "^2.5.6"
+  }
+}
